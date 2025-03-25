@@ -1,0 +1,3 @@
+/Users/makaasz/Проекты/С/Курсовые/cross&ball/cmake-build-debug/CMakeFiles/cross_ball.dir
+/Users/makaasz/Проекты/С/Курсовые/cross&ball/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/makaasz/Проекты/С/Курсовые/cross&ball/cmake-build-debug/CMakeFiles/rebuild_cache.dir

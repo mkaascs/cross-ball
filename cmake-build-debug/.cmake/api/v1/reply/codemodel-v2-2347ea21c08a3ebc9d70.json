@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cross_ball",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cross_ball::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cross_ball-Debug-1708383c69a184b3cfaf.json",
+					"name" : "cross_ball",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/makaasz/\u041f\u0440\u043e\u0435\u043a\u0442\u044b/\u0421/\u041a\u0443\u0440\u0441\u043e\u0432\u044b\u0435/cross&ball/cmake-build-debug",
+		"source" : "/Users/makaasz/\u041f\u0440\u043e\u0435\u043a\u0442\u044b/\u0421/\u041a\u0443\u0440\u0441\u043e\u0432\u044b\u0435/cross&ball"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

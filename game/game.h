@@ -6,15 +6,16 @@
 #define BOARD_SIZE 3
 
 typedef enum {
-    Cross, Ball
+    Ball, Cross
 } Player;
 
 typedef struct {
-    Player currentPlayer;
-    uint16_t balls_moves;
-    uint16_t crosses_moves;
+    Player lastMove;
+    uint16_t ballsMoves;
+    uint16_t crossesMoves;
 
     bool (*checkWin)();
+    bool (*makeMove)(int position);
 } Game;
 
 void run_game(Game*);
